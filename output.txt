@@ -1,0 +1,2 @@
+Dispensing item A1. Enjoy your snack!
+Change returned: 10 coins.
